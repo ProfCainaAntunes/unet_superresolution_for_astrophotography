@@ -212,8 +212,8 @@ This section explains how to reproduce the training process.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/ProfCainaAntunes/unet_superresolution_for_astrophotography.git
+cd unet_superresolution_for_astrophotography
 ```
 
 ---
